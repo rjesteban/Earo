@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: 5e9713061fdbf2f4fa9a05da8e45b9f5
+timeCreated: 1437481678
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trash_final_0
+    21300002: trash_final_1
+    21300004: trash_final_2
+    21300006: trash_final_3
+    21300008: trash_final_4
+    21300010: trash_final_5
+    21300012: trash_final_6
+    21300014: trash_final_7
+    21300016: trash_final_8
+    21300018: trash_final_9
+    21300020: trash_final_10
+    21300022: trash_final_11
+    21300024: trash_final_12
+    21300026: trash_final_13
+    21300028: trash_final_14
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: trash_final_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 38
+        width: 106
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 24
+        width: 105
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 27
+        width: 122
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_3
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 19
+        width: 87
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_4
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 28
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_5
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_6
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 23
+        width: 51
+        height: 126
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_7
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 34
+        width: 83
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 31
+        width: 56
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_9
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 39
+        width: 102
+        height: 81
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_10
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 47
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_11
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 49
+        width: 76
+        height: 59
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_12
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 29
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1782
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trash_final_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1421
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

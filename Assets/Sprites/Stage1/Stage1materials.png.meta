@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 007747d1f7616ef4e8876240122e0a32
+timeCreated: 1435069732
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Stage1materials_0
+    21300002: Stage1materials_1
+    21300004: Stage1materials_2
+    21300006: Stage1materials_3
+    21300008: Stage1materials_4
+    21300010: Stage1materials_5
+    21300012: Stage1materials_6
+    21300014: Stage1materials_7
+    21300016: Stage1materials_8
+    21300018: Stage1materials_9
+    21300020: Stage1materials_10
+    21300022: Stage1materials_11
+    21300024: Stage1materials_12
+    21300026: Stage1materials_13
+    21300028: Stage1materials_14
+    21300030: Stage1materials_15
+    21300032: Stage1materials_16
+    21300034: Stage1materials_17
+    21300036: Stage1materials_18
+    21300038: Stage1materials_19
+    21300040: Stage1materials_20
+    21300042: Stage1materials_21
+    21300044: Stage1materials_22
+    21300046: Stage1materials_23
+    21300048: Stage1materials_24
+    21300050: Stage1materials_25
+    21300052: Stage1materials_26
+    21300054: Stage1materials_27
+    21300056: Stage1materials_28
+    21300058: Stage1materials_29
+    21300060: Stage1materials_30
+    21300062: Stage1materials_31
+    21300064: Stage1materials_32
+    21300066: Stage1materials_33
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Stage1materials_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 804
+        width: 81
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 898
+        width: 11
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_2
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 885
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 804
+        width: 126
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_4
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 876
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_5
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 816
+        width: 37
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 804
+        width: 86
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 804
+        width: 150
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 615
+        width: 119
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_9
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 675
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_10
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 635
+        width: 143
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 616
+        width: 191
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 434
+        width: 32
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_13
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 439
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_14
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 457
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 374
+        width: 52
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_16
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 439
+        width: 44
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_17
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 446
+        width: 44
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_18
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 384
+        width: 51
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_19
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 384
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_20
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 381
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 280
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_22
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 241
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_23
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 237
+        width: 45
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_24
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 301
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 206
+        width: 57
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_26
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 222
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_27
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 222
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_28
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 110
+        width: 90
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_29
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 80
+        width: 56
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_30
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 26
+        width: 98
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_31
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 19
+        width: 78
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_32
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 87
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Stage1materials_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 55
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

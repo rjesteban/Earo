@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: afbf3a1e4c1a14159a5bf8c10062420e
+timeCreated: 1435673242
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: nonbiospritemap_0
+    21300002: nonbiospritemap_1
+    21300004: nonbiospritemap_2
+    21300006: nonbiospritemap_3
+    21300008: nonbiospritemap_4
+    21300010: nonbiospritemap_5
+    21300012: nonbiospritemap_6
+    21300014: nonbiospritemap_7
+    21300016: nonbiospritemap_8
+    21300018: nonbiospritemap_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: nonbiospritemap_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 279
+        width: 35
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nonbiospritemap_1
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 261
+        width: 71
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nonbiospritemap_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 265
+        width: 66
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nonbiospritemap_3
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 283
+        width: 130
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nonbiospritemap_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 92
+        width: 143
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nonbiospritemap_7
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 143
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nonbiospritemap_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 174
+        width: 77
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: nonbiospritemap_9
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 43
+        width: 74
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

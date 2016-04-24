@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bruiser
+  - New Tag
+  - Background
+  - Trash
+  - Bin
+  - Sharpee
+  - Gemite
+  - Electric
+  - Wall
+  - theSurvivors
+  - trash
+  - Lane
+  - limit
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Table
+  - Player
+  - Floor
+  - Stairs
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2845775639
+    locked: 0
+  - name: ElevatorShaft
+    uniqueID: 26465485
+    locked: 0
+  - name: BehindWall
+    uniqueID: 1903260803
+    locked: 0
+  - name: BehindElevator
+    uniqueID: 4240416473
+    locked: 0
+  - name: Wall
+    uniqueID: 3325855225
+    locked: 0
+  - name: OnWall
+    uniqueID: 1748898309
+    locked: 0
+  - name: Object
+    uniqueID: 3879493675
+    locked: 0
+  - name: Doors
+    uniqueID: 3019473173
+    locked: 0
+  - name: Foundation
+    uniqueID: 3218010709
+    locked: 0
+  - name: Player
+    uniqueID: 3665117339
+    locked: 0
